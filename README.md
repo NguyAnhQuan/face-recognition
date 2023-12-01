@@ -37,9 +37,15 @@ Additionally, the application also supports facial recognition through pre-recor
 ## How to Use
 ### Step 1: Data Acquisition
 - Use the capture photo feature from the camera or save images from another source.
+![data](./img/data.png)
 ### Step 2: Recognition
 - Choose the recognition feature to identify faces in the stored images or videos.
+- Img
+![Img](./img/faceDisk.png)
+- camera
+![Cam](./img/cam.png)
 ### Step 3: Information Management
 - View recognition results and manage stored facial information.
+
 ## System Requirements
 To use this application, you need a computer or device with a camera and the necessary libraries installed.
