@@ -1,4 +1,4 @@
-import cv2
+import cv2 
 import os
 import numpy as np
 detector=cv2.CascadeClassifier(cv2.data.haarcascades +'haarcascade_frontalface_default.xml')
